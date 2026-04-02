@@ -1,0 +1,2 @@
+cd /d "E:\Uni\Final Project\Coding Artifact\medical-imputation"
+"E:\Uni\Final Project\Coding Artifact\.venv313\Scripts\python.exe" -m notebook

@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+scikit-image
+opencv-python
+tqdm
+hdbscan
+torch
