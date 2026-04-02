@@ -1,0 +1,15 @@
+# Python junk
+__pycache__/
+*.py[cod]
+*$py.class
+.venv313/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Your specific outputs
+outputs/
+medical-imputation/outputs/
+*.log
+*.png
+*.jpg
